@@ -18,7 +18,7 @@ This project is related to mine because *insert reasons here*.
 
 *https://woodtrick.com/product/mayan-calendar/*
 
-![Image]https://woodtrick.com/wp-content/uploads/2019/02/1-1.jpg)
+![Image](https://woodtrick.com/wp-content/uploads/2019/02/1-1.jpg)
 
 This project is related to mine because *insert reasons here*.
 
