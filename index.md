@@ -12,7 +12,8 @@ When you have completed the template, submit the link to the GitHub Pages site f
 
 ![Image](https://cdn.instructables.com/FG3/CEBA/IQJGBAGI/FG3CEBAIQJGBAGI.LARGE.jpg?auto=webp&frame=1&crop=3:2&width=400&height=1024&fit=bounds)
 
-This project is related to mine because *insert reasons here*.
+*An orrery is a mechanical model of the solar system that illustrates or predicts the relative positions and motions of the planets and moons, usually according to the heliocentric model. My project reflects these positions as phases denoting the position according to the day observed from
+This project helped me visualize a design concept for my idea on how to represent the phases of the moon by spreading out the positions arround a model of the earth in the center*.
 
 ### DIY MAYAN CALENDAR ###
 
