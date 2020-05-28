@@ -69,6 +69,9 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 *Put details here.*
 
 ### Final design concept ###
+
+![Image](Design_01.png)
+
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
