@@ -70,9 +70,9 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 ### Final design concept ###
 
-![Image](Design_01.png)
+![Image](Cast.jpg)
 
-![Image](Design_01.png)
+![Image](Cast_01.jpg)
 
 ![Image](Design_01.png)
 
