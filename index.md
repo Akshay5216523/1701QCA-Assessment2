@@ -79,10 +79,13 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 ### Interaction flowchart ###
 
-![Image](Interaction_Flowchart.jpg)
+<img src="Interaction_Flowchart.jpg" width="300">
 
 ## Physical experimentation documentation ##
 
+<img src="Board.jpg" width="300">
+<img src="zero.jpg" width="300">
+<img src="Moons.jpg" width="300">
 
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
