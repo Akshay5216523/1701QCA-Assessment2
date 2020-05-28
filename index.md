@@ -49,7 +49,7 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 ## Conceptual progress ##
 
 ### Design intent ###
-*The design intent of this project is to showcase an interactive intallation that calculates and visualizes the phase of the moon based on the date given by the user.*
+*The design intent of this project is to showcase a thematic interactive intallation that calculates and visualizes the phase of the moon based on the date given by the user styled in mayan symbolic art.*
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
