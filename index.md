@@ -21,14 +21,30 @@ This project helped me visualize a design concept for my idea on how to represen
 
 ![Image](https://woodtrick.com/wp-content/uploads/2019/02/1-1.jpg)
 
-This project is related to mine because *insert reasons here*.
+This project initally sparked my interest behind making a celestial body phase calculator, the mayan calendar is designed with the perspective that the earth was in the center of the solar system and indicated the turn of yearly and monthly cycles based on the phases of the moon and sun from the view of an observer from the earth*.
+
+### School Countdown Calendar ###
+
+*https://www.instructables.com/id/School-Countdown-Calendar/*
+
+![Image](https://cdn.instructables.com/F2O/J8RX/JUINEP5U/F2OJ8RXJUINEP5U.LARGE.jpg?auto=webp&frame=1&width=933&height=1024&fit=bounds)
+
+This project has an LCD screen displaying the end date/time for the countdown, utilizes three 4-digit 7-segment display units connected to an Arduino Mega to utilize all the additional I/O pins. This project utilises a very similar the method I'll be trying to use in indicating the input date of the phase calculator using the 8 digits from the display. 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
 
-### *Brief resource name/description* ###
+## Mould making and Casting Techniques ##
+*https://www.smooth-on.com/tutorials/*
 
-*Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+![Image](https://www.smooth-on.com/pw/site/assets/files/24815/card-mold-star-15-demo.jpg)
+
+* I intend on casting traditional symbols that the maya used to denote the moon and the sun, along with the number system they followed to indicate the date input. Mouldmaking/casting involves covering the object you want to copy in a material which will then become firm enough to be detached from it and keep its shape, so that a hollow space or negative of the object is left, which can then be filled with a casting material to make an exact replica of the shape.*
+
+## Moon phases calculation algorithm ##
+*https://gist.github.com/L-A/3497902*
+<script src="https://gist.github.com/L-A/3497902.js"></script>
+
+* This is a pseudo code I found written in javascript that I intend on using to calculate that phase of the moon with the date as the input. Although I would have to translate this to java in order to implement the code within Arduino*
 
 ## Conceptual progress ##
 
@@ -47,7 +63,6 @@ This project is related to mine because *insert reasons here*.
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
 ![Image](Interaction_Flowchart.jpg)
 
