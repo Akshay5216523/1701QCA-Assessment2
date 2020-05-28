@@ -71,7 +71,7 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 *The two main fabrication materials I've planned on using for this project ar clear casting epoxy and air drying clay. The epoxy requires the additional use of sillicone in order to make moulds for the casting process as epoxy tends to stick to raw clay moulds.*
 
-![Image](Cast_01.jpg)
+<img src="Cast_01.jpg" width="500">
 
 ![Image](Design_01.png)
 
@@ -79,11 +79,11 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 ### Interaction flowchart ###
 
-<img src="Interaction_Flowchart.jpg" width="300">
+<img src="Interaction_Flowchart.jpg" width="750">
 
 ## Physical experimentation documentation ##
 
-<img src="Board.jpg" width="300">
+<img src="Board.jpg" width="750">
 <img src="zero.jpg" width="300">
 <img src="Moons.jpg" width="300">
 
