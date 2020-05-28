@@ -53,7 +53,7 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 ### Design concept 1 ###
 
-![Image](Design_01.png)
+![Image](Design_1.png)
 
 *The diagram above depicts the overall outlook of the model from the position of the arrow gauge petruding from the middle earth symbol indicating the phase of the moon by rotating towards the assossiated phase position.*
 
@@ -62,6 +62,10 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 *Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
+
+![Image](Date.png)
+![Image](Circuit.png)
+
 *Put details here.*
 
 ### Final design concept ###
