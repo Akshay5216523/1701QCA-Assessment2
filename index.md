@@ -57,32 +57,33 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 *The diagram above depicts the overall outlook of the model from the position of the arrow gauge petruding from the middle earth symbol indicating the phase of the moon by rotating towards the assossiated phase position.*
 
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
-
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
 
 ![Image](Date.png)
 ![Image](Circuit.png)
 
-*Put details here.*
+*The diagrams above depict the two possible concepts behind the date input method, one where the potentiometer knobs .*
 
 ### Final design concept ###
 
 ![Image](Cast.jpg)
 
+*The two main fabrication materials I've planned on using for this project ar clear casting epoxy and air drying clay. The epoxy requires the additional use of sillicone in order to make moulds for the casting process as epoxy tends to stick to raw clay moulds.*
+
 ![Image](Cast_01.jpg)
 
 ![Image](Design_01.png)
 
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+*The diagram above shows the complete design concept beind the project.*
 
 ### Interaction flowchart ###
 
 ![Image](Interaction_Flowchart.jpg)
 
 ## Physical experimentation documentation ##
+
+
 
 *In this section, show your progress including whichever of the following are appropriate for your project at this point.
 a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
