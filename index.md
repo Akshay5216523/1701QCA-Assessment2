@@ -53,7 +53,7 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 
 ### Design concept 1 ###
 
-![Image](Design_1.png)
+![Image](Design_01.png)
 
 *The diagram above depicts the overall outlook of the model from the position of the arrow gauge petruding from the middle earth symbol indicating the phase of the moon by rotating towards the assossiated phase position.*
 
