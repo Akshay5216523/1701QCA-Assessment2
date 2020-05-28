@@ -84,20 +84,26 @@ This project has an LCD screen displaying the end date/time for the countdown, u
 ## Physical experimentation documentation ##
 
 <img src="Board.jpg" width="750">
+
+*The Image above shows the circuit diagram plotted on top of the boad in which all of the elements of the project were assembled on.*
+
 <img src="zero.jpg" width="300">
 <img src="Moons.jpg" width="300">
+<img src="Epoxy.jpg" width="450">
 
+*The Images above show the mould making and casting experiments carried out for the project*
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+*Digital Display Test:*
+<img src="Date_test.gif" width="450">
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+*Digital Display Test:*
+<img src="Servo_Test.gif" height="450">
 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+*One of the most unexpected difficulties that I faced on the road getting so far with the project was being able to factor in a well-planned schedule, while the conceptualising process did not take too long as I had a clear vision of what my project was to look like, it was extremely difficult to predict the time frame it would take to implement those ideas and especially with moulding making and casting involved.*
+
+*Another aspect that slowed me down was simple troubleshooting of problems like malfunctioning damaged breadboards. This totally caught me unexpectedly and forced me to waste a lot of precious time on.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+*The next steps would include finishing of the parts from painting to assembly including final testing before recording.*
